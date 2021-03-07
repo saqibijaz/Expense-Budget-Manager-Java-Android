@@ -1,4 +1,4 @@
-# ExpenseTracer
+# ExpenseBudgetManager
 
 A simple expense manager app for Android.
 
@@ -7,7 +7,9 @@ A simple expense manager app for Android.
 - Expenses (add, edit, delete);
 - Expense categories (add, edit, delete);
 - Expense reports (filter by: today, week, month, date, date range);
-- Currency chooser. 
+- Currency chooser.
+- Expense Predictor.
+- Set your Daily Expense Limit 
 
 ### Screenshots
 
